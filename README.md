@@ -14,6 +14,8 @@ Keychain.
 > or endorsed by NCSA or the University of Illinois. "Lumen" is the name of the
 > service at lumen.ncsa.illinois.edu; this app just reads the balance that service
 > shows on your profile page.
+>
+> **Disclosure:** This tool was built using the GLM-5.2 model hosted on NCSA's Lumen
 
 ---
 
